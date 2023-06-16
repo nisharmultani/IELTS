@@ -4,7 +4,7 @@ import Seo from "../components/seo"
 
 const IndexPage = () => (
   <>
-  lets learn together
+    <h2 className="text-red-500"> lets learn together</h2>
   </>
   
 )

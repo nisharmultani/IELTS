@@ -3,6 +3,8 @@ import * as React from "react"
 import Footer from "../components/comman/footer"
 import MasterHeader from "../components/comman/masterHeader"
 import HeroHeader from "../components/comman/heroHeader"
+// import 'styles/tailwind.scss'
+
 
 const IndexPage = () => (
   <>

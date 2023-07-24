@@ -12,6 +12,7 @@ const IndexPage = () => (
     <main>
       <HeroHeader />
       <h1 className="text-red-500 h1"> lets learn together</h1>
+      <h3> nishar from staging</h3>
     </main>
     <Footer />
   </>
